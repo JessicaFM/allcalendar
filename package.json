@@ -1,0 +1,24 @@
+{
+  "name": "allcalendar",
+  "version": "1.0.0",
+  "description": "Simple javascript calendar",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessicaFM/allcalendar.git"
+  },
+  "keywords": [
+    "javascript",
+    "web",
+    "calendar"
+  ],
+  "author": "Jessica F. Martinez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JessicaFM/allcalendar/issues"
+  },
+  "homepage": "https://github.com/JessicaFM/allcalendar#readme"
+}
